@@ -1,12 +1,21 @@
+<h1 align="center">Hi ğŸ‘‹, I'm Pickmea</h1>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=stu2014&show_icons=true" alt="Pickmea" /> </p>
+
+- ğŸ”­ Iâ€™m currently working security engineer
+- ğŸ“« How to reach me: Email istu369@gmail.com  wechat:pickmeo
+- âš¡ Fun fact: everything
+-->
+
+
 # About Me
 
 - Security engineer, engaged in SDL work.
 - My blog ,https://www.cnblogs.com/pickmea
 
-# ¹ØÓÚÎÒ
+# å…³äºæˆ‘
 
-- ¼×·½°²È«¹¤³ÌÊ¦£¬´ÓÊÂSDLÏà¹Ø¹¤×÷¡£
-- ÎÒµÄÍÅ¶Ó¹«ÖÚºÅ£¬¡º[°²È«ºÚ°å±¨](https://github.com/Stu2014/Stu2014/qrcode.bmp)¡»£¬¼ÇÂ¼ºÍ·ÖÏíÒÒ·½ÈÕ³£µÄ¹¤×÷¡£
-- ÎÒµÄ²©¿Í£ºhttps://www.cnblogs.com/pickmea
-- ÕıÔÚĞ´Ò»¸ö×Ê²ú¹ÜÀíÉ¨Ãè
+- ç”²æ–¹å®‰å…¨å·¥ç¨‹å¸ˆï¼Œä»äº‹SDLç›¸å…³å·¥ä½œã€‚
+- æˆ‘çš„å›¢é˜Ÿå…¬ä¼—å·ï¼Œã€[å®‰å…¨é»‘æ¿æŠ¥](https://github.com/Stu2014/Stu2014/qrcode.bmp)ã€ï¼Œè®°å½•å’Œåˆ†äº«ä¹™æ–¹æ—¥å¸¸çš„å·¥ä½œã€‚
+- æˆ‘çš„åšå®¢ï¼šhttps://www.cnblogs.com/pickmea
+- æ­£åœ¨å†™ä¸€ä¸ªèµ„äº§ç®¡ç†æ‰«æ
 
