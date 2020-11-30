@@ -21,3 +21,7 @@
 - 🎧  我的博客：https://www.cnblogs.com/pickmea
 - 🕓  正在写一个资产管理扫描
 
+# Github visit count
+<p align="left"> 
+  <img src="https://profile-counter.glitch.me/Stu2014/count.svg" /><br>
+</p>
