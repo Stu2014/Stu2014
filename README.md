@@ -7,7 +7,7 @@
 # About Me
 
 - 🔭  I’m currently working security engineer(SDL work).
-- 📫  How to reach me: Email istu369@gmail.com  wechat:pickmeo
+- 📫  How to reach me: Email istu369@gmail.com
 - 🛀🏾  Fun fact: everything
 - 🏆  Security engineer, 
 - 🎧  My blog ,https://www.cnblogs.com/pickmea
