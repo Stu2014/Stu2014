@@ -11,7 +11,7 @@
 - 🛀🏾  Fun fact: everything
 - 🏆  Security engineer, 
 - 🎧  My blog ,https://www.cnblogs.com/pickmea
-- ->
+
 
 
 # 关于我
@@ -21,7 +21,4 @@
 - 🎧  我的博客：https://www.cnblogs.com/pickmea
 - 🕓  资产管理扫描结束
 
-# Github visit count
-<p align="left"> 
-  <img src="https://profile-counter.glitch.me/Stu2014/count.svg" /><br>
-</p>
+
